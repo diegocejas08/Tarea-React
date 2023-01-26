@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.icbc.com.ar/wcm/connect/eb22f439-a060-4e9b-9647-82d57f53d536/Vidriera+%28002%29.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-eb22f439-a060-4e9b-9647-82d57f53d536-oll158.",
+      "title":"Un Verano imperdible con ICBC",
+      "name": "couple",
+      "description": "Esta nueva temporada, ICBC acompañará a sus clientes con beneficios exclusivos y experiencias increiblés. Conocé todas las propuestas en las mejores playas de la Costa Atlántica"
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th/id/R.ae446603e250ab5eca32395629ba55c3?rik=rMbC8SyHBWsLBA&riu=http%3a%2f%2fupload-images.jianshu.io%2fupload_images%2f13950022-aac68d3bd8010ea7&ehk=XZSCkggrio%2fL%2bBIyGfxBm0XhvEZiOODdzFZTP89ceo4%3d&risl=&pid=ImgRaw&r=0",
+      "title":"Protegé siempre tus datos confidenciales",
+      "name": "security",
+      "description": "Los ciberdelincuentes pueden intentar robar tus datos confidenciales, vulnerando así tu seguridad. Tené en cuenta estos consejos para operar con seguridad."
+    },
+    {
+      "id": 3,
+      "image": "https://www.icbc.com.ar/wcm/connect/8f58c4f5-02af-4f7d-b442-52a317d6907f/notas_vidriera_510x526.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8f58c4f5-02af-4f7d-b442-52a317d6907f-onfrwxF",
+      "title":"Turismo en Argentina",
+      "name": "airport",
+      "description": "La temporada de verano es sinónimo de descanso, relax y deiversión. Ya sea en el mar o en la montaña, en la imponente geografia del Norte o en los hermosos lagos del Sur, la oferta turística para viejar dentro de la Argentina es sumamente amplia."
+    },
+    {
+      "id": 4,
+      "title":"¡Nuevo servicio! ICBC Hola WhatsApp",
+      "image": "https://www.bancanews.com/wp-content/uploads/2019/10/109095259_gettyimages-1065796046.jpg",
+      "name": "whatsapp",
+      "description": "Ahora podés chatear con nosotros por WhatsApp desde tu celular, para realizar consultas de forma ágil y segura. ¡Conocé más acá y escribinos al 1148205255!"
+    }
+  ]
